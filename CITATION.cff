@@ -1,10 +1,10 @@
 cff-version: 1.1.0
-message: "If you use this software, please cite it with the following information, and the notebook title"
+message: "If you use this code, please cite it with the following information, and the notebook title"
 authors:
   - family-names: Moore
     given-names: Candace Makeda
     orcid: https://orcid.org/0000-0003-1672-7565
 title: maxcorlabs/Corona_Cost_Effectiveness: 
 version: v.0.1.2
-date-released: 2021-10-16
+date-released: as per Github push
             
